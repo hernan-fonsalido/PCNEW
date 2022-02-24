@@ -6,7 +6,7 @@
 /*
  *  Owl Carousel - Core
  */
-.owl-carousel {
+ .owl-carousel {
   display: none;
   width: 100%;
   -webkit-tap-highlight-color: transparent;
@@ -70,7 +70,10 @@
     padding: 0 !important;
     font: inherit; }
   .owl-carousel.owl-loaded {
-    display: block; }
+    display: block;
+    margin-top: -69px;
+    margin-bottom: 33px;
+    }
   .owl-carousel.owl-loading {
     opacity: 0;
     display: block; }

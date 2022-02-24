@@ -1,5 +1,9 @@
 * {
     padding: 5px;
+    
+}
+body{
+    font-family: 'Roboto', sans-serif;
 }
 .iconos {
     width: 500px;
